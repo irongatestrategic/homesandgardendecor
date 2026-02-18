@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.homesandgardendecor.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.homesandgardendecor.com/pages/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.homesandgardendecor.com/pages/affiliate-disclosure/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.homesandgardendecor.com/pages/privacy-policy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.homesandgardendecor.com/reviews/water/waterdrop-chubby-pitcher-review/</loc>
+    <lastmod>2025-03-24T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.homesandgardendecor.com/reviews/kitchen/easy-plumbing-kitchen-faucet-review/</loc>
+    <lastmod>2025-03-22T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.homesandgardendecor.com/reviews/water/waterdrop-ed01w-countertop-review/</loc>
+    <lastmod>2025-03-20T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.homesandgardendecor.com/reviews/outdoor/highwood-lehigh-collection-review/</loc>
+    <lastmod>2025-03-18T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.homesandgardendecor.com/reviews/water/waterdrop-g3p800-review/</loc>
+    <lastmod>2025-03-15T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
