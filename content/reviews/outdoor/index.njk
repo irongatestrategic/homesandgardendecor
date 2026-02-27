@@ -1,0 +1,24 @@
+---
+layout: base
+title: "Outdoor Furniture Reviews"
+description: "Engineering-grade reviews of outdoor furniture and patio systems. HDPE furniture, teak, aluminum — TCO analysis over realistic 10-year operational horizons."
+permalink: /reviews/outdoor/
+---
+
+<div class="container" style="padding-top: 2rem;">
+
+  <h1>Outdoor Furniture Reviews</h1>
+  <p class="category-intro">Outdoor furniture evaluated on material science, weather resistance, and 10-year total cost of ownership — not aesthetics alone.</p>
+
+  <div class="review-list">
+    {% for review in collections.outdoorReviews | reverse %}
+    <article class="review-card">
+      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
+      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
+      {% if review.data.date %}<time>{{ review.data.date | dateFormat }}</time>{% endif %}
+      <a href="{{ review.url }}" class="read-more">Read full review →</a>
+    </article>
+    {% endfor %}
+  </div>
+
+</div>

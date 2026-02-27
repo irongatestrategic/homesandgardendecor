@@ -1,0 +1,24 @@
+---
+layout: base
+title: "Water Filtration Reviews"
+description: "Engineering-grade reviews of home water filtration systems. Under-sink RO systems, countertop pitchers, gravity filters — honest specs, real TCO analysis."
+permalink: /reviews/water/
+---
+
+<div class="container" style="padding-top: 2rem;">
+
+  <h1>Water Filtration Reviews</h1>
+  <p class="category-intro">Independent, specification-driven reviews for homeowners who treat water quality as infrastructure — not an afterthought.</p>
+
+  <div class="review-list">
+    {% for review in collections.waterReviews | reverse %}
+    <article class="review-card">
+      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
+      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
+      {% if review.data.date %}<time>{{ review.data.date | dateFormat }}</time>{% endif %}
+      <a href="{{ review.url }}" class="read-more">Read full review →</a>
+    </article>
+    {% endfor %}
+  </div>
+
+</div>

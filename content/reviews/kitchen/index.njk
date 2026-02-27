@@ -1,0 +1,24 @@
+---
+layout: base
+title: "Kitchen Fixture Reviews"
+description: "Engineering-grade reviews of kitchen faucets, sinks, and fixtures. Spec-first analysis, honest limitations, and total cost of ownership over realistic service life."
+permalink: /reviews/kitchen/
+---
+
+<div class="container" style="padding-top: 2rem;">
+
+  <h1>Kitchen Fixture Reviews</h1>
+  <p class="category-intro">Kitchen infrastructure evaluated on material quality, duty ratings, and 20-year service life expectations — not finish trends.</p>
+
+  <div class="review-list">
+    {% for review in collections.kitchenReviews | reverse %}
+    <article class="review-card">
+      <h2><a href="{{ review.url }}">{{ review.data.title }}</a></h2>
+      {% if review.data.description %}<p>{{ review.data.description }}</p>{% endif %}
+      {% if review.data.date %}<time>{{ review.data.date | dateFormat }}</time>{% endif %}
+      <a href="{{ review.url }}" class="read-more">Read full review →</a>
+    </article>
+    {% endfor %}
+  </div>
+
+</div>
