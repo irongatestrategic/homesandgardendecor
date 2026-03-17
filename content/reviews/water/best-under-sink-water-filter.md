@@ -138,7 +138,7 @@ Multipure's solid carbon block design forces water through a dense, uniform matr
 
 ---
 
-### Waterdrop 10UA
+### [Waterdrop 10UA](https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=53950&murl=https%3A%2F%2Fwww.waterdropfilter.com%2Fproducts%2Funder-sink-water-filter-direct-connect-filtration-system%3F_pos%3D1%26_psq%3D10UA%26_ss%3De%26_v%3D1.0%26variant%3D32668607414354)
 
 The 10UA is a direct-connect in-line system designed for flow rate over filtration depth. At 2.0 GPM with 8,000-gallon filter life it handles aesthetic water quality — chlorine, taste, odor — for high-volume households without the pressure drop of denser filtration systems.
 
@@ -163,7 +163,7 @@ The 10UA is a direct-connect in-line system designed for flow rate over filtrati
 
 ## Scenario Recommendations
 
-- **Best for high-volume cooking households:** Waterdrop 10UA — 2.0 GPM and 8,000-gallon life handles daily cooking and drinking demands without flow limitations
+- **Best for high-volume cooking households:** [Waterdrop 10UA](https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=53950&murl=https%3A%2F%2Fwww.waterdropfilter.com%2Fproducts%2Funder-sink-water-filter-direct-connect-filtration-system%3F_pos%3D1%26_psq%3D10UA%26_ss%3De%26_v%3D1.0%26variant%3D32668607414354) — 2.0 GPM and 8,000-gallon life handles daily cooking and drinking demands without flow limitations
 - **Best for older homes with lead concerns:** Multipure Aquaversa — solid carbon block mechanical filtration is reliable for lead particle removal
 - **Best for apartment renters:** Aquasana Claryum Direct Connect — no drilling, fully reversible, leaves no trace when you move
 - **Best for households with young children:** Aquasana 3-Stage Max Flow — NSF 401 and P473 certifications cover pharmaceuticals, pesticides, and microplastics
