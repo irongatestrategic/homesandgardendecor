@@ -45,7 +45,7 @@ For renters and homeowners with limited cabinet space, under-sink filtration isn
 | Power Required | Yes | No | No |
 | Waste Water | Yes — manual disposal | No | No |
 
-> [AquaTru Classic Countertop RO →]([AFFILIATE_LINK_NEEDED])
+> [Waterdrop ED01 Countertop Water Filter →](https://click.linksynergy.com/link?id=fvECCa26jTc&offerid=1888875.539504189921323076398394&type=2&murl=https%3a%2f%2fwww.waterdropfilter.com%2fproducts%2fwaterdrop-countertop-electric-dispenser-water-filtration-system%3fvariant%3d40433110974546)
 
 ---
 
@@ -69,7 +69,7 @@ This is the question most buyers skip. A basic activated carbon faucet filter is
 
 Countertop RO systems don't connect to a drain, so concentrated brine doesn't disappear automatically. Every gallon of filtered water produces a portion of waste water — the ratio varies by system, typically 1:1 to 3:1 waste-to-pure depending on membrane efficiency. That waste water collects in a separate tank that requires manual emptying.
 
-For most kitchen uses this is a minor inconvenience. The waste water is safe for watering non-edible plants or cleaning. The more modern countertop RO units (AquaTru, Waterdrop, and similar) have improved their ratios significantly over first-generation designs, and some recirculate waste water through a secondary use cycle. Check the waste ratio in the spec sheet before buying if counter space or water conservation is a concern.
+For most kitchen uses this is a minor inconvenience. The waste water is safe for watering non-edible plants or cleaning. Modern countertop RO units like the Waterdrop ED01 have improved their ratios significantly over first-generation designs. Check the waste ratio in the spec sheet before buying if counter space or water conservation is a concern.
 
 ---
 
@@ -88,7 +88,7 @@ Gravity filters have the lowest long-term cost for a household that primarily wa
 
 For RO owners: a TDS (Total Dissolved Solids) meter is a $10–$15 tool that tells you whether the membrane is still functioning. A reading above 50–60 ppm on filtered output from a system that previously produced under 20 ppm is a reliable indicator that the membrane needs replacement. Worth having on hand rather than guessing based on a calendar interval.
 
-> [Waterdrop WD-CTF-01 Countertop Filter →]([AFFILIATE_LINK_NEEDED])
+> [Waterdrop G3P800 Under-Sink RO System →](https://click.linksynergy.com/link?id=fvECCa26jTc&offerid=1888875.5395017266159901776996987&type=2&murl=https%3a%2f%2fwww.waterdropfilter.com%2fproducts%2freverse-osmosis-system-2-year-combo-kit-wd-g3p800-w-cfcb%3fvariant%3d39922334761042)
 
 ---
 
