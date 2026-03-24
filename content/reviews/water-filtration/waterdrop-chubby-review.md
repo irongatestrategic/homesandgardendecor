@@ -20,7 +20,7 @@ slug: waterdrop-chubby-review
 
 The Waterdrop Chubby sits in a crowded category — filter pitchers — where most products look similar on the shelf and perform similarly in use. The Chubby stands out on two counts: it's NSF 42 certified with a documented 97.4% chlorine reduction rate, and its filter lasts 200 gallons before replacement, which is 5x the life of a standard Brita filter. At a price point under $30, those are meaningful differentiators. The trade-off is that it doesn't reduce TDS, meaning dissolved minerals, fluoride, and nitrates pass through unchanged.
 
-> [Waterdrop Chubby →]([AFFILIATE_LINK_NEEDED: Rakuten])
+> [Waterdrop Chubby →](https://click.linksynergy.com/link?id=fvECCa26jTc&offerid=1888875.539501343504012400238028&type=2&murl=https%3a%2f%2fwww.waterdropfilter.com%2fproducts%2fwater-filter-pitcher-chubby-blue%3fvariant%3d33220443832402)
 
 ---
 
@@ -110,9 +110,9 @@ One potential long-term concern noted in independent testing: the metal spring o
 
 The Chubby sits between a basic Brita pitcher and a countertop RO system on both price and performance. It removes chlorine and some metal ions at a certified level, lasts significantly longer per filter than most competitors, and costs less than $30. It doesn't approach the contaminant coverage of an RO system.
 
-If your water quality concern extends beyond taste and chlorine, the next step up is a countertop RO system like the Waterdrop G3P800 or AquaTru — both of which address the full contaminant spectrum the Chubby leaves untouched. For a comparison of those options, see our [Countertop Water Filters Guide](/water-filtration/countertop-water-filters-guide/).
+If your water quality concern extends beyond taste and chlorine, the next step up is a countertop RO system like the Waterdrop ED01 or the under-sink G3P800 — both address the full contaminant spectrum the Chubby leaves untouched. For a comparison of those options, see our [Countertop Water Filters Guide](/water-filtration/countertop-water-filters-guide/).
 
-> [Waterdrop Chubby — check current price →]([AFFILIATE_LINK_NEEDED: Rakuten])
+> [Waterdrop Chubby — check current price →](https://click.linksynergy.com/link?id=fvECCa26jTc&offerid=1888875.539501343504012400238028&type=2&murl=https%3a%2f%2fwww.waterdropfilter.com%2fproducts%2fwater-filter-pitcher-chubby-blue%3fvariant%3d33220443832402)
 
 ---
 
