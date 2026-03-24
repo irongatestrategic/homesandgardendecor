@@ -45,7 +45,7 @@ Both systems mount under the sink, both connect to your cold water line, and bot
 | Electricity Required | Tankless models only | No |
 | Upfront Cost | $200–$500 | $80–$150 |
 
-> [Waterdrop G3P800 Tankless RO System →]([AFFILIATE_LINK_NEEDED])
+> [Waterdrop G3P800 Tankless RO System →](https://click.linksynergy.com/link?id=fvECCa26jTc&offerid=1888875.5395017266159901776996987&type=2&murl=https%3a%2f%2fwww.waterdropfilter.com%2fproducts%2freverse-osmosis-system-2-year-combo-kit-wd-g3p800-w-cfcb%3fvariant%3d39922334761042)
 
 ---
 
@@ -116,7 +116,7 @@ For a household focused on long-term water infrastructure, the RO system deliver
 
 If your water source is municipal and your concern is taste rather than contamination, a quality under-sink carbon block filter is the efficient answer. It costs less, wastes nothing, and handles the chlorine problem cleanly.
 
-> [APEC WFS-1000 3-Stage Under-Sink Filter →]([AFFILIATE_LINK_NEEDED])
+> [Waterdrop ED01 Countertop Water Filter →](https://click.linksynergy.com/link?id=fvECCa26jTc&offerid=1888875.539504189921323076398394&type=2&murl=https%3a%2f%2fwww.waterdropfilter.com%2fproducts%2fwaterdrop-countertop-electric-dispenser-water-filtration-system%3fvariant%3d40433110974546)
 
 ---
 
