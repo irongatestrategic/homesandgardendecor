@@ -1,14 +1,15 @@
 ---
 layout: base
 title: "The Highwood Lehigh Collection: A Complete Guide to Poly-Lumber Outdoor Furniture"
-description: "A technical guide to the Highwood Lehigh poly-lumber outdoor furniture collection — material specs, 10-year cost analysis, and which products fit your space."
+description: "The complete guide to Highwood's Lehigh collection—HDPE poly-lumber material specs, 20-year warranty, color durability, and honest 10-year cost comparison vs. cedar and teak."
 date: 2026-03-30
 author: Jeff M.
 category: outdoor
 tags:
-  - highwood lehigh collection
+  - Highwood Lehigh collection
   - poly-lumber outdoor furniture
-  - maintenance-free outdoor furniture
+  - HDPE outdoor furniture
+  - maintenance-free patio furniture
 affiliate: true
 site: HomesAndGardenDecor
 slug: highwood-lehigh-collection-guide
@@ -16,149 +17,100 @@ slug: highwood-lehigh-collection-guide
 
 # The Highwood Lehigh Collection: A Complete Guide to Poly-Lumber Outdoor Furniture
 
-The Highwood Lehigh collection is a line of outdoor furniture made by Highwood USA in Pennsylvania. It addresses the primary failure point of traditional exterior furniture: material degradation from environmental exposure. Using high-density polyethylene (HDPE) as a structural material instead of wood, the collection targets homeowners who want the look of painted timber without the maintenance cycles of sanding, staining, and sealing. The Lehigh line uses a traditional New England design — clean vertical slats and structured profiles — built for long-term outdoor placement across varied climates.
+The Highwood Lehigh collection is a line of outdoor furniture manufactured by Highwood USA in Pennsylvania, built from high-density polyethylene rather than wood. The core argument for this material is straightforward: HDPE does not rot, crack, splinter, or require painting. For homeowners who want traditional porch and garden furniture that performs in coastal, humid, or high-variation climates without a recurring maintenance cycle, that's a meaningful engineering trade-off worth understanding before buying.
 
-## Who This Is For
-
-- You want outdoor furniture that requires no painting, staining, or sealing — ever
-- You live in a coastal, high-humidity, or high-rainfall climate where wood furniture degrades quickly
-- You want a one-time purchase decision backed by a 20-year structural warranty
-
-## Who Should Skip This
-
-- You prefer the look and feel of natural wood grain over a uniform manufactured texture
-- You want the option to repaint your patio furniture when you update your exterior color scheme — HDPE will not accept paint adhesion, so color choice is permanent
-- You're on a tight budget and comfortable performing your own annual wood maintenance
+**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-chair" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Chair</a>**
 
 ---
 
 ## What Is Poly-Lumber?
 
-HDPE stands for high-density polyethylene — the base resin for the poly-lumber used throughout the Lehigh collection. The material is derived primarily from post-consumer recycled plastic, including milk jugs and detergent bottles, processed into a purified pellet form before being extruded into board stock.
+High-density polyethylene, or HDPE, is the base resin for the poly-lumber used across the Lehigh collection. The material is derived primarily from post-consumer recycled plastic — milk jugs and detergent bottles are the primary feedstock — processed into purified pellet form and extruded into structural boards.
 
-The engineering difference between HDPE and wood is structural. Wood is a cellular material. Those cells absorb moisture, expand and contract with temperature changes, and eventually break down through rot, mold, and splintering. HDPE has no cellular structure. It is non-porous, so it cannot absorb water in any meaningful quantity, cannot rot, and does not support mold or mildew growth.
+The engineering difference from wood starts at the cellular level. Wood is a porous organic material with a cellular structure that absorbs moisture. That moisture absorption is what drives rot, cracking, and the seasonal expansion and contraction that eventually breaks the bond between wood and any surface coating applied to it. HDPE is non-porous. It does not absorb moisture, which means it cannot rot, crack, or support mold and mildew growth — not because of a coating, but because the material itself has no pathway for water ingress.
 
-Color is handled differently than with painted wood. Rather than applying a surface coat, Highwood extrudes integral pigments directly into the HDPE during manufacturing. The color runs through the entire cross-section of each board. Scratch the surface and the color underneath is identical. There is no coating to chip, peel, or fade independently of the substrate.
+Color in poly-lumber is integral, not applied. The pigment is compounded into the HDPE during extrusion, so the color runs consistent through the entire cross-section of the board. A scratch on the surface reveals identical color underneath. This is the fundamental difference from painted wood or powder-coated aluminum, where UV degradation and thermal cycling eventually break down the bond between the coating and the substrate. Poly-lumber avoids that failure mode because there is no coating to fail.
 
-UV resistance comes from stabilizers compounded into the HDPE during extrusion. These additives prevent the polymer chains from breaking down under direct sunlight — a different mechanism than painted wood or powder-coated aluminum, where UV exposure degrades the bond between the coating and the base material, eventually leading to flaking or oxidation. Highwood also uses a textured surface finish called NatureTEX, embossed into the boards during extrusion, which provides a wood grain appearance and reduces surface sheen.
+UV resistance is built in through stabilizer compounds added during extrusion. These prevent the polymer chains from breaking down under direct sunlight exposure — a separate mechanism from the integral pigment, but both work together to maintain appearance over time.
 
-Weight is a real trade-off worth acknowledging. Poly-lumber is denser than cedar and heavier per board-foot than teak. That weight makes the furniture harder to move, but it also means the pieces stay put during wind events without anchoring. If you plan to rearrange your patio layout seasonally, factor that in.
+The material is heavier than cedar and comparable in weight to dense hardwoods. That's a genuine trade-off: moving individual pieces requires more effort, but the weight provides wind resistance that lighter resin furniture lacks. A Lehigh chair stays where you put it in a storm.
 
-From a sourcing standpoint, the HDPE used in Highwood furniture comes from recycled post-consumer plastic rather than virgin petroleum-extracted resin. Highwood backs the material with a 20-year limited residential warranty covering structural defects including splintering and rot — neither of which is chemically possible in HDPE, so the warranty reflects confidence in the hardware and fastener integrity as much as the boards themselves.
+Highwood does not use virgin petroleum-extracted plastic for the structural components. The recycled HDPE feedstock diverts post-consumer plastic from landfill. The company backs the material with a 20-year limited residential warranty against structural defects including splintering or rotting — a warranty period that reflects realistic HDPE service life in exterior conditions. Full warranty terms are available at highwood-usa.com.
 
 ---
 
 ## The Lehigh Collection at a Glance
 
-The Lehigh line uses straight lines and vertical back slats to create a formal profile suited to porches, decks, and garden settings. Construction throughout uses heavy-gauge components and 304-grade stainless steel hardware — a deliberate choice that prevents the rust streaking around fastener holes that is common in coastal environments.
+The Lehigh line uses a traditional New England design language: vertical back slats, clean straight lines, structured profiles. The aesthetic sits between formal garden furniture and classic Adirondack style — more upright than an Adirondack, less ornate than cast-iron Victorian garden furniture. Construction uses heavy-duty hardware throughout, with 304-grade stainless steel fasteners at all connection points.
 
-**The Lehigh Garden Chair** is the individual seating unit in the collection. It has a contoured seat and the signature vertical slat backrest, and works as standalone seating or as part of a larger arrangement.
+The Lehigh Garden Chair is the foundational seating unit — a contoured seat with the signature vertical slat backrest. It works as standalone seating, in pairs, or around a table. The most versatile piece in the line.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-chair" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Chair</a>**
 
-**The Two Lehigh Garden Chairs with Square Side Table** bundles the chair pair with a side table sized to match. The set is sized for smaller decks, front porches, and garden seating areas where a full dining set would be oversized.
+The Two Lehigh Garden Chairs with Square Side Table packages the foundational seating with a matched side table at the correct height for the chairs. For buyers furnishing a small porch or balcony, this set eliminates the guesswork of matching table height to seating.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Ftwo-lehigh-garden-chairs-with-square-side-table" target="_blank" rel="noopener noreferrer">Check Current Price — Two Lehigh Garden Chairs with Square Side Table</a>**
 
-**The Lehigh Garden Bench (4 ft)** is a stationary two-person bench. It works as a landscaping focal point, a front porch anchor, or a durable substitute for a wooden park bench.
+The Lehigh Garden Bench (4 ft) seats two adults on a stationary frame. It's a common choice as a focal point in landscaped garden beds or as a front porch alternative to wooden park benches that require seasonal maintenance.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-bench-4ft" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Bench (4 ft)</a>**
 
-**The Lehigh Porch Swing (4 ft)** adapts the collection's profile into a hanging format. It is engineered for two-person loads. Note: the included hanging chains are zinc-plated steel rather than stainless — verify this detail on the product page if you're installing in a coastal salt-air environment, as zinc-plated hardware has a shorter corrosion lifespan than the 304-grade stainless used elsewhere in the collection.
+The Lehigh Porch Swing (4 ft) adapts the collection's design into a hanging format. It includes zinc-plated steel chains and is engineered for two-occupant loads. One installation note: the supporting structure — ceiling joist, pergola beam, or swing frame — needs to be rated for dynamic load, which runs higher than static weight due to the motion of swinging.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-porch-swing" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Porch Swing (4 ft)</a>**
 
-**The Lehigh Garden Gliding Bench (4 ft)** provides smooth gliding motion through a floor-mounted parallel-plane mechanism — no ceiling joists required. This makes it the practical alternative to a hanging porch swing for covered patios, sunrooms, or decks without adequate overhead structure for suspension hardware.
+The Lehigh Garden Gliding Bench (4 ft) provides motion seating on a self-contained floor-mounted frame. For porches where ceiling joists aren't available or accessible for a hanging swing, this is the practical alternative — same seating motion, no overhead installation required.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-gliding-bench-4ft" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Gliding Bench (4 ft)</a>**
 
-**The Lehigh 3-Piece Counter Height Balcony Set** is built for elevated decks and balconies with standard railings. The counter height — typically 34 to 36 inches at the table surface — positions seated users to see over most railing heights without standing.
+The Lehigh 3-Piece Counter Height Balcony Set is designed for elevated decks where standard chair height puts the seat surface below the railing line. Counter height seating solves that sightline problem while maintaining the same material and aesthetic as the rest of the collection.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-3pc-counter-height-balcony-set" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh 3-Piece Counter Height Balcony Set</a>**
 
 ---
 
-## Making the Call
+## Color Options and Finish Durability
 
-If you're deciding now:
+Highwood offers the Lehigh collection in earth tones including Weathered Wood and Charleston Green, plus classic White and Coastal Blue. The surface texture is NatureTEX, a wood-grain emboss applied during extrusion that reduces the flat plastic sheen of lower-grade HDPE furniture and diffuses light in a way that reads more like painted wood than injection-molded resin.
 
-- **Buy from the Lehigh line if:** you want zero-maintenance outdoor furniture for a coastal, humid, or high-precipitation climate, and you're comfortable with the higher upfront cost relative to cedar.
-- **Consider an alternative if:** natural wood grain aesthetics are a priority, or you want the flexibility to repaint your furniture in future seasons.
+Because the pigment runs through the full thickness of the board rather than sitting on the surface, color consistency holds over years of rain, salt spray, and UV exposure. Wood paint and stain fail at the interface between the coating and the substrate — poly-lumber has no such interface. The hardware uses 304-grade stainless steel throughout, which prevents the rust streaking around fastener holes that is common in coastal environments where standard steel oxidizes within a season or two.
 
 ---
 
 ## What Poly-Lumber Furniture Actually Costs Over 10 Years
 
-The Lehigh collection costs more at purchase than cedar and is roughly comparable to mid-grade teak in year one. The cost math shifts in year three, which is when wood maintenance requirements become a recurring line item.
+The Lehigh collection costs more upfront than cedar and is comparable in initial price to mid-grade teak. That comparison changes when you account for maintenance over time.
 
-A cedar bench in most climates requires annual cleaning and a bi-annual application of sealant or stain to prevent structural grey-out and rot. Depending on climate and product choice, wood maintenance costs typically run $30 to $100 per year when factoring in quality stains and applicator materials — verify current product pricing locally, as these figures vary by region and product.
+Cedar requires cleaning and a bi-annual sealant or stain application to prevent greying and rot. Depending on climate and product quality, wood maintenance runs roughly $30 to $100 per year — verify current material costs locally, as regional variation is significant. By year five, wood that has not been maintained typically shows structural wear or cosmetic damage requiring repair or replacement. A cedar bench that costs less on day one may require two or three restaining cycles before the Lehigh equivalent has needed anything beyond a seasonal wash.
 
-By year five, a wooden bench with inconsistent maintenance will show structural damage or significant cosmetic deterioration. A Lehigh bench at the same point needs a seasonal rinse with mild soap and water. No replacement boards, no sanding equipment, no chemical sealers. Over a 10-year period, the cumulative cost of ownership for a poly-lumber piece is often lower than a cheaper wooden equivalent that required two or three restaining cycles. For manufacturer material specifications, refer to the [Highwood USA product documentation](https://highwood-usa.com).
-
----
-
-## Where People Run Into Problems
-
-These are the most common issues buyers encounter with poly-lumber furniture, based on aggregated owner reports:
-
-**Assembly time.** Poly-lumber furniture is hardware-intensive. Most Highwood pieces require 45 to 90 minutes to assemble. Plan for this — don't open the box 20 minutes before guests arrive.
-
-**Weight.** The density that makes these pieces wind-resistant makes them difficult to move. If you rearrange your outdoor space seasonally, that's a real consideration, especially for the bench and gliding bench.
-
-**Porch swing chain hardware.** The included hanging chains are zinc-plated, not stainless. In coastal environments, zinc-plated hardware corrodes faster than the poly-lumber boards will. If you're within a mile of salt water, upgrading to stainless hanging hardware is worth the cost.
-
-**Color is permanent.** HDPE will not accept standard paint adhesion. The color you choose at purchase is the color you live with. Highwood's palette is well-considered, but there is no repainting option if you update your exterior.
+The Lehigh line's maintenance routine is power-washing or scrubbing with mild soap and water. No sanding, no staining, no replacement boards, no rust treatment on hardware. Over a 10-year window, the total cost of ownership for poly-lumber furniture is often lower than for wood furniture that requires consistent maintenance, even when the upfront price difference is significant. For homeowners who plan to keep outdoor furniture for a decade or more and want to stop thinking about it after installation, the math favors poly-lumber.
 
 ---
 
-## How It Compares
+## Who the Lehigh Collection Is Best For — and Who Should Look Elsewhere
 
-| | Highwood Lehigh | Cedar | Teak | Powder-coat Aluminum |
-|---|---|---|---|---|
-| Upfront cost | High | Low–mid | High | Mid |
-| Annual maintenance | None | $30–100/yr | Oiling required | Occasional touch-up |
-| Structural warranty | 20 years | None standard | None standard | Varies |
-| Coastal performance | Excellent | Poor–fair | Good | Good |
-| Best for | Zero-maintenance, humid climates | Budget, DIY-friendly | Natural look | Lightweight, modern aesthetic |
+The Lehigh collection fits homeowners who want zero maintenance and long service life. Coastal and high-humidity environments are where poly-lumber's advantages over wood are most concrete — salt air and persistent moisture destroy wooden furniture within a few seasons, and HDPE is indifferent to both.
 
----
+It's not the right choice for everyone. Buyers who value the natural grain variation and warmth of real wood will find poly-lumber too uniform — the NatureTEX emboss approximates wood texture but doesn't replicate it. If you want to repaint your patio furniture to a different color in a few years, HDPE won't accept paint adhesion the way wood does. And for buyers on a tight budget who are comfortable performing their own annual wood maintenance, the higher upfront cost of Highwood may not be justified by the maintenance savings.
 
-## Who the Lehigh Collection Is Best For (and Who Should Look Elsewhere)
-
-The Lehigh collection suits homeowners who want outdoor furniture they can place once and leave alone. It is particularly well-suited to coastal regions where humidity and salt air degrade wood within a few seasons. If the goal is to furnish a deck and not perform structural maintenance again, this collection meets that requirement.
-
-It is not the right choice for everyone. Buyers who prefer the genuine variation and warmth of natural wood grain may find the uniform manufactured texture of poly-lumber unsatisfying. If you want the ability to change your patio color scheme with a fresh coat of paint, HDPE is not a workable material — it will not hold paint adhesion. And buyers on a strict budget who are willing to maintain wood themselves annually may not recover the upfront price premium over the ownership period.
+**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-chair" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Chair</a>**
 
 ---
 
 ## Frequently Asked Questions
 
 **How long does poly-lumber outdoor furniture last?**
-Highwood provides a 20-year residential warranty, but HDPE itself does not biodegrade and will remain structurally sound well past that period if the hardware is maintained. The limiting factor over time is hardware corrosion, not board degradation.
+Highwood backs the Lehigh collection with a 20-year residential structural warranty. HDPE itself does not biodegrade, so the material will remain structurally sound well beyond the warranty period under normal residential conditions. The practical service life limit is more likely to be hardware fatigue at connection points than material degradation.
 
 **Can poly-lumber furniture be left outside all winter?**
-Yes. The material does not absorb water, so freeze-thaw cycles do not cause cracking. The integral color is unaffected by snow or ice accumulation. Weight is sufficient for most wind conditions without anchoring.
+Yes. The material does not absorb water, so freeze-thaw cycles that crack wood have no effect on HDPE. The weight provides wind resistance, and the integral color is unaffected by snow or ice accumulation. No seasonal storage is required.
 
 **Does poly-lumber furniture get hot in direct sunlight?**
-Darker colors absorb more heat than lighter ones — the same physics that apply to any outdoor surface. HDPE does not reach the temperatures of wrought iron or bare aluminum in direct sun, but if the furniture will sit in full unshaded afternoon sun, a lighter color is the practical choice.
+Darker colors absorb more heat than lighter colors, as with any outdoor surface. Poly-lumber does not get as hot as wrought iron or aluminum in direct sun, but in full afternoon sun exposure, lighter colors like White or Sand will be more comfortable to the touch than darker options like Charleston Green.
 
 **Is Highwood furniture worth the price compared to teak?**
-High-grade teak is durable, but it requires periodic oiling to maintain its color and will eventually grey if neglected. Highwood eliminates that maintenance requirement entirely and holds its color without treatment. For buyers who want zero ongoing upkeep, poly-lumber has the better total cost of ownership. For buyers who prefer natural wood aesthetics and are willing to oil annually, teak is a legitimate alternative.
+High-grade teak is genuinely durable, but it still requires periodic oiling to maintain color and is susceptible to rot in prolonged ground contact. The comparison depends on priorities: teak offers natural grain variation and warmth that HDPE doesn't replicate. Highwood offers zero maintenance and consistent color that doesn't fade to silver-grey without treatment. For buyers who want to set it and forget it, Highwood is the stronger argument.
 
 ---
 
-## Summary
-
-The Highwood Lehigh collection eliminates the maintenance requirements of wood through stabilized HDPE boards and stainless steel hardware. The upfront cost is higher than cedar, but the absence of recurring maintenance costs and a 20-year structural warranty change the math over time. For homeowners who need reliable all-weather performance in a traditional design profile — particularly in coastal or humid environments — the Lehigh line is a practical long-term investment.
-
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-chair" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Chair</a>**
-
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Ftwo-lehigh-garden-chairs-with-square-side-table" target="_blank" rel="noopener noreferrer">Check Current Price — Two Lehigh Garden Chairs with Square Side Table</a>**
-
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-bench-4ft" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Bench (4 ft)</a>**
-
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-porch-swing" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Porch Swing (4 ft)</a>**
-
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-gliding-bench-4ft" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Gliding Bench (4 ft)</a>**
-
-**<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-3pc-counter-height-balcony-set" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh 3-Piece Counter Height Balcony Set</a>**
+The Highwood Lehigh collection is a practical choice for all-weather outdoor seating where long-term durability and zero maintenance matter more than natural wood aesthetics. The HDPE material eliminates the failure modes that require recurring attention on wood furniture, and the 20-year structural warranty reflects realistic material performance. For homeowners making a long-term investment in outdoor seating, the Lehigh line delivers on the specs it claims.
