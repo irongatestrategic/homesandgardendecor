@@ -17,6 +17,29 @@ slug: highwood-lehigh-collection-guide
 
 # The Highwood Lehigh Collection: A Complete Guide to Poly-Lumber Outdoor Furniture
 
+<div class="author-byline">
+  <div class="author-info">
+    <span class="author-name">By Jeff M.</span>
+    <span class="author-title">Home Infrastructure Analyst · HomesAndGardenDecor.com</span>
+    <span class="author-credentials">20+ years evaluating residential and commercial infrastructure systems. Applies engineering-grade standards to home improvement product analysis.</span>
+  </div>
+  <div class="article-meta">
+    <span class="publish-date">Published: March 30, 2026</span>
+    <span class="read-time">5 min read</span>
+  </div>
+</div>
+
+<div class="affiliate-disclosure-inline">
+  <strong>Disclosure:</strong> HomesAndGardenDecor.com participates in affiliate programs. If you purchase through our links, we may earn a commission at no additional cost to you. Our evaluations are based on technical specifications and real-world performance standards.
+</div>
+
+
+<div class="bluf-box">
+  <h3>⚙️ BLUF — Bottom Line Up Front</h3>
+  <p>Traditional wood outdoor furniture has a hidden cost most buyers don't calculate upfront: recurring maintenance. Highwood's Lehigh collection uses HDPE poly-lumber that eliminates that cycle entirely — no painting, staining, or seasonal treatment required. The 20-year structural warranty reflects realistic material performance, not marketing.</p>
+</div>
+
+
 The Highwood Lehigh collection is a line of outdoor furniture manufactured by Highwood USA in Pennsylvania, built from high-density polyethylene rather than wood. The core argument for this material is straightforward: HDPE does not rot, crack, splinter, or require painting. For homeowners who want traditional porch and garden furniture that performs in coastal, humid, or high-variation climates without a recurring maintenance cycle, that's a meaningful engineering trade-off worth understanding before buying.
 
 **<a href="https://click.linksynergy.com/deeplink?id=fvECCa26jTc&mid=50730&murl=https%3A%2F%2Fhighwood-usa.com%2Fproducts%2Flehigh-garden-chair" target="_blank" rel="noopener noreferrer">Check Current Price — Lehigh Garden Chair</a>**
@@ -114,3 +137,10 @@ High-grade teak is genuinely durable, but it still requires periodic oiling to m
 ---
 
 The Highwood Lehigh collection is a practical choice for all-weather outdoor seating where long-term durability and zero maintenance matter more than natural wood aesthetics. The HDPE material eliminates the failure modes that require recurring attention on wood furniture, and the 20-year structural warranty reflects realistic material performance. For homeowners making a long-term investment in outdoor seating, the Lehigh line delivers on the specs it claims.
+
+---
+
+<div class="author-bio-card">
+  <h4>About the Reviewer</h4>
+  <p><strong>Jeff M.</strong> is a home infrastructure analyst with 20+ years of experience evaluating residential and commercial systems. He applies engineering-grade standards to home improvement products — because your home's systems deserve the same rigor as any professional installation. He writes for HomesAndGardenDecor.com from Mississippi.</p>
+</div>
