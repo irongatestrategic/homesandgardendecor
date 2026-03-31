@@ -21,26 +21,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700;900&display=swap" rel="stylesheet">
+<meta name='impact-site-verification' value='bb8fb0e2-624c-4397-a6d5-aca09563dd85'>
 </head>
 <body>
 
   {% include "partials/header.njk" %}
 
   <main class="site-main">
-
-    {% if author %}
-    <div class="author-bio">
-      <p><strong>By {{ author }}</strong> · Enterprise Infrastructure Analyst &middot; IronGate Strategic LLC &mdash; 20+ years managing mission-critical systems for Fortune 500 clients. Applies infrastructure-grade evaluation standards to residential home systems.</p>
-      {% if date %}<p class="article-meta">Published: {{ date | date("MMMM D, YYYY") }} &nbsp;&middot;&nbsp; 5 min read</p>{% endif %}
-    </div>
-    {% endif %}
-
-    <div class="affiliate-disclosure">
-      <p><strong>Disclosure:</strong> HomesAndGardenDecor.com participates in affiliate programs. If you purchase through our links, we may earn a commission at no additional cost to you. Our evaluations are independent and based on technical merit &mdash; we recommend what we&rsquo;d install in our own homes.</p>
-    </div>
-
     {{ content | safe }}
-
   </main>
 
   {% include "partials/footer.njk" %}
